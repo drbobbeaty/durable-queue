@@ -1,5 +1,6 @@
 (defproject org.clojars.drbobbeaty/durable-queue "0.1.8"
   :description "a in-process task-queue that is backed by disk."
+  :url "http://github.com/drbobbeaty/durable-queue"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[com.taoensso/nippy "2.14.0"]
